@@ -31,7 +31,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Orilis
             </Link>
             <p className="text-gray-300 max-w-md">
-              Best In Class Orilis Furniture Desgin Software
+              Best In Class Layout and DTP Software for Furniture Design
             </p>
 
 

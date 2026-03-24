@@ -47,7 +47,7 @@ const BenefitsSection = () => {
           Benefits of REACH Orilis
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Best In Class Orilis Furniture Design Software
+          Best In Class Layout and DTP Software for Furniture Design
         </p>
         
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">

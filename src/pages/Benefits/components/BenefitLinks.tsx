@@ -20,7 +20,7 @@ const BenefitLinks = () => {
         </h2>
 
         <p className="text-center text-lg text-gray-600 max-w-3xl mx-auto mb-12">
-          Best In Class Orilis Furniture Design Software
+          Best In Class Layout and DTP Software for Furniture Design
         </p>
 
 

@@ -89,7 +89,7 @@ const Header = () => {
 
           {/* TAGLINE */}
           <p className="mt-3 text-base text-gray-600 text-center lg:text-right">
-            REACH Orilis for Furniture Design turns your product data, images, and stories into high‑impact catalogs, brochures, and sales documents that make your furniture collections impossible to ignore.
+            Best In Class Layout and DTP Software for Furniture Design
           </p>
 
         </div>
